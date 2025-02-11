@@ -1,3 +1,6 @@
+For personal use
+
+
 # Anime4K-GUI
 
 This application is designed to enhance the resolution of anime videos using the [Anime4K](https://github.com/bloc97/Anime4K) shaders by bloc97, with the ability to save the upscaled version to disk.
